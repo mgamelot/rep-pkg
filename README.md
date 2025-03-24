@@ -53,6 +53,8 @@ Post-process collected data:
 
 You will find the processed data in the `./results` folder.
 
+> You find a sample of the already processed result data in this repo. You can contact us for the full data.
+
 ## Reference
 
 If you use our work in your research, or it helps it, or if you simply like it, please cite XXX in your publications. 
