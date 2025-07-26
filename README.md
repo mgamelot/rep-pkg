@@ -1,6 +1,6 @@
 This repository contains the artifacts (scripts, data, and instructions) to reproduce the results discussed in our scientific paper. The package supports static and dynamic security analyses on Python packages using Bandit, GuardDog, and TShark.
 
-Follow the steps below to set up XXX and validate its general functionality.
+Follow the steps below to set it up and validate its general functionality.
 
 
 ## Step 1: Configure the environment  ##
